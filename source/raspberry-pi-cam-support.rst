@@ -60,6 +60,7 @@ But a better method to actually download that media in bulk is to use some sftp 
 
 
 Now you can just drag and drop things from remote side to your local machine side.
+
 .. image:: _images/filezilla.png
     :target: _images/filezilla.png
 
