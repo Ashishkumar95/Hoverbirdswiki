@@ -68,3 +68,18 @@ Now you can just drag and drop things from remote side to your local machine sid
 Post Processing Images
 ==========================
 `Webodm <https://github.com/OpenDroneMap/WebODM>`__ is an excellent opensource project that is easy to use as well. It provides a simple webinterface and using opendronemap behind the scene to give you complete ortho images and point cloud. If you want to go deeper, it is in python and you can modify it to your requirement.
+
+A stiched image looks like this. Ofcourse this is much smaller version of it. The full resolution Orthomosaic will be difficult to render in a browser. 
+
+.. image:: _images/ortho_visual.png
+    :target: _images/ortho_visual.png
+    
+You can also specify various kinds of filters to have a better vieo of things that you are interested in. here is a DSM view of the sam ortho.
+
+.. image:: _images/ortho_dsm.png
+    :target: _images/ortho_dsm.png
+    
+You can also buy NDVI converted raspberry Pi camera from us for vegitation/crop health monitoring.
+
+.. image:: _images/noir_blue.png
+    :target: _images/noir_blue.png
