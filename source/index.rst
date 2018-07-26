@@ -20,7 +20,9 @@ Our first product is RW460 but we will keep adding more and more products based 
 .. toctree::
 
    introduction
+   before-you-fly
    raspberry-pi-cam-support
+   raspberry-pi-cam-mods
    adhoc-cell-tower-or-connection-sharing
    system-control
    joystick

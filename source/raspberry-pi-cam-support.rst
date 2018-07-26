@@ -1,4 +1,4 @@
-.. _Raspberry-Pi-Cam-Support:
+.. _Connection-sharing:
 
 ===========================================
 Raspberry Pi Camera Support
@@ -27,7 +27,15 @@ Apart from these you have some options in general settings. These are common wit
 
 .. image:: _images/jitter_setting.png
     :target: _images/jitter_setting.png
+    
+    
+Gimbal Support
+===============
+Gimbal is supported thorugh two axis servo gimbal with adapter plates as shown below.
 
+.. image:: https://cdn-shop.adafruit.com/1200x900/1967-02.jpg
+
+.. #youtube:: g9JvcSxIwc8?t=20
 
 Mapping/Survey support
 =========================================
@@ -40,7 +48,7 @@ One can select mapping mode from the camera options as shown in below figure. A 
     :target: _images/mapping_options.png
 
 
-The Survey and imaging support is provided through a `python script <https://github.com/hoverbirds/pi_bins/blob/master/pimjpegserver.py>__ that also exports an mjpeg server.  The script itself uses `PiCamera <https://picamera.readthedocs.io/en/release-1.13/>`__ python module for capturing images. 
+The Survey and imaging support is provided through a `python script <https://github.com/hoverbirds/pi_bins/blob/master/pimjpegserver.py>`__ that also exports an mjpeg server.  The script itself uses `PiCamera <https://picamera.readthedocs.io/en/release-1.13/>`__ python module for capturing images. 
 
 You can also point any webbrowser browser to http://10.0.0.1:5555/cam.mjpg to receive full resolution stills. This is true as long as the camera is in mapping mode irrespective of the fact whether you are running a survey mission or not. This makes it a powerful tool to stream full resolution of the sensor rather than limiting yourself of max of 1080p which is just 2MP. In fact all vehicles designed for surveillance should support mjpeg to transmit full resolution images. Full resolution can make a lot of difference when you want to spot smallest of the things on the ground. 
 
