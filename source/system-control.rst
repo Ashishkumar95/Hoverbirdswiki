@@ -27,6 +27,11 @@ The settings also allow you set the channel. This can be very handy in order to 
 
 Using external Wifi for additional range
 =========================================
+The onboard wifi on Raspberry Pi doesn't is not much a range champion. It mostly starts loosing connectivity in 500m or so in most ideal conditions. But you can pick up any of the Linux supported wifi devices in the market. They come in all shapes and sizes. A good wifi dongle with standard 4dbi antenna should be able to give you a range of upto 1-2km in line of sight. For more range go for better antenna on both sides. Even on the phone/laptop (basically QGC side as well). 
+
+There are only two places that required change to switch from internal to external wifi 
+* change the /etc/hostapd/hostapd.conf file to reflect the new device
+* change the /etc/rc.local to reflect the new device. This is required only if you are using connection sharing :ref:`adhoc-cell-tower-or-connection-sharing`
 
 
 

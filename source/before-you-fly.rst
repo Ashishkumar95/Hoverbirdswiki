@@ -1,4 +1,4 @@
-.. _ before-you-fly:
+.. _before-you-fly:
 
 ===========================================
 Before You Fly
@@ -50,3 +50,4 @@ General Guidelines
 * see that nothing is loose on the copter, motors or arms.
 * properly are properly tightened, propeller flying off is the most common cause of crashes.
 * check for whether before heading out especially strong winds.
+* safety is never excessive, please refer exhaustive instructions `here <http://ardupilot.org/copter/docs/safety-multicopter.html>`__

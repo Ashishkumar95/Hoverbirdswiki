@@ -20,7 +20,7 @@ Fixed RC Override doesn't read from copter parameters, min and max are hard code
 
 Physical Joystick
 ============================
-The physical joystick configuration tab appears under vehicle if a joystick is detected. This is pretty much same as upstream QGC with only RC Override support to modes and there is a way to emulate channel 5 onwards with joystick buttons. It just adds new PWM values for emulated channel to RC Override message. But again this kind of hacking is only for experimental purposes when you don't have any other way to achieve that control.
+The physical joystick configuration tab appears under vehicle if a joystick is detected. This is pretty much same as upstream QGC with only RC Override support to modes and there is a way to emulate channel 5 onward with joystick buttons. It just adds new PWM values for emulated channel to RC Override message. But again this kind of hacking is only for experimental purposes when you don't have any other way to achieve that control.
 
 
 Virtual Joystick
