@@ -48,7 +48,7 @@ extensions = [
     'sphinx.ext.ifconfig',
     'sphinx.ext.viewcode',
     'sphinx.ext.githubpages',
-#    'sphinxcontrib.youtube', #For youtube embedding
+    'sphinxcontrib.youtube', #For youtube embedding
 #    'sphinxcontrib.vimeo', #For vimeo embedding
 ]
 

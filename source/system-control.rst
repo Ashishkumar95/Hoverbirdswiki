@@ -25,6 +25,11 @@ The hotspot settings allow you to change the name of your network as well as pas
 The settings also allow you set the channel. This can be very handy in order to avoid dance wifi areas where the current channel may have too much interference and thus poor bandwidth. You can use android utility like `Wifi Analyzer <https://play.google.com/store/apps/details?id=com.farproc.wifi.analyzer&hl=en_US>`__ to find the best channel (most free channel).
 
 
+Using external Wifi for additional range
+=========================================
+
+
+
 Enable Unsafe Modes:
 =====================
 As our platform is intended to be usable with only virtual joystick, this checkbox is provided to disable unsafe flight modes like stabilize, acro, sports etc. You should never fly copter without an actual RC in these manual modes of Ardupilot operation. Joysticks generally don't have enough tactical feedback required to operate these modes. Please go through mode documentation carefully on ardupilot wiki before engaging it. With flying things you shouldn’t really skip on reading before playing around with them.
