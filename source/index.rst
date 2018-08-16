@@ -27,6 +27,7 @@ Our first product is RW460 but we will keep adding more and more products based 
    system-control
    joystick
    development
+   troubleshooting
 
    
 Indices and tables
