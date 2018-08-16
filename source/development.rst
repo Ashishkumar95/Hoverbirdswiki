@@ -103,3 +103,7 @@ Software on Autopilot(pixhawk)
 
 We run Ardupilot on Pixhawk. The Ardupilot wiki `here <http://ardupilot.org/dev/docs/building-the-code.html>`__ has excellent instructions on how to setup a build environment for ardupilot itself. As a beginner you will never need to do this. Changing the autopilot code is more specialized work and you should not do it unless you have a good reason to do so. If you can manage what you want on the companion computer, mavpoxy or QGC, it is always better as these are relatively low risk components when compared to autopilot code.
 
+Innovative Ideas for Development
+=================================
+
+You can do a lot of things with Ardupilot and Raspberry Pi. Ardupilot project maintains a list of good list of such ideas especially for students `here <http://ardupilot.org/dev/docs/gsoc-ideas-list.html>`__
