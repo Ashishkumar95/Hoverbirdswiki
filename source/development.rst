@@ -95,7 +95,7 @@ if you want to work with Pixhawk, switch to pi3_pixhawk_onbaordwifi branch using
 
     git checkout -t origin/pi3_pixhawk_onbaordwifi
 
-.. #youtube:: 8kx9glzO7os
+.. youtube:: n3PlTJ_fV_M
 
 
 Software on Autopilot(pixhawk)

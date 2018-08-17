@@ -4,7 +4,7 @@
 Introduction
 =============
 
-Hoverbird's `RW460 <http://store.hoverbirds.in/product/rw460-foldable-quadcopter/>`__ copter and FW800 plane are based on the following open source projects. In fact most of the functionality is provided by these projects which a few things added on top for making it affordable and playful for the student builders.
+Hoverbird's Nexus platform is is based on the following open source projects. In fact most of the functionality is provided by these projects which a few things added on top for making it affordable and playful for the student builders.
 
 #. `Ardupilot <http://ardupilot.org/>`__ with documentation `here <http://ardupilot.org/ardupilot/index.html>`__
 
@@ -15,6 +15,8 @@ Hoverbird's `RW460 <http://store.hoverbirds.in/product/rw460-foldable-quadcopter
 These are excellent projects with excellent up to date documentation. Here we document only things that are specific to our products. For rest of the documentation, you should refer to these projects directly.
 
 All our source code is available online on Github. The code is also available on SD card in Raspberry Pi. The control interface provided is http so that the students can play with various options for camera as well other commands by simply using a browser or commands like wget. If they wish they can later integrate their custom commands into QGC.
+
+The very first product that uses the Nexus platform is `RW460 <http://store.hoverbirds.in/product/rw460-foldable-quadcopter/>`__ copter. this will soon be followed by and FW800 plane, RD200 Rover and B300 boat.
 
 .. youtube:: qF4sPB2WkHY
 
