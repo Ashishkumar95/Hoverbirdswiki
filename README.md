@@ -1,2 +1,1 @@
-# hoverbirdswiki
-hoverbird's documentation wiki
+Hoverbirdswiki
