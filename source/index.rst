@@ -30,8 +30,8 @@ Our first product is `RW460 <http://store.hoverbirds.in/product/rw460-foldable-q
    joystick
    development
    troubleshooting
-
-   
+   BerryPilot
+   QGC
 Indices and tables
 ==================
 
